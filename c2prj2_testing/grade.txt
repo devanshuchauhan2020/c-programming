@@ -1,8 +1,9 @@
-Grading at Fri Nov 27 13:58:59 UTC 2020
+Grading at Fri Nov 27 14:00:42 UTC 2020
 I expected to find a file called 'tests.txt' but it did not exist
 (or was not a regular file)
 Here are the files that I can find:
 example.txt
+grade.txt
 README
 run_all.sh
 test-eval
