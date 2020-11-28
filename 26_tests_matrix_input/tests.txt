@@ -1,15 +1,3 @@
-input1.txt
-input2.txt
-input3.txt
-input4.txt
-input8.txt
-
-input5.txt
-input6.txt
-input7.txt
-nonexistent.txt
-nonexistent.txt, "w"
-(whatever)
 inpyt7.txt
 input5.txt
 input1.txt
@@ -19,9 +7,15 @@ input3.txt
 input.tx
 2 input.txt
 input4.txt
-ldfklnkfd
-fd,lmdfvdfv/a/fmd
-    ,cxlkksd// s sd
-    sdmkndsn
+input6.txt
+input7.txt
+input8.txt
+input9.txt
+input13.txt
 
-nja^6sdjnls(0(
+input10.txt
+input11.txt
+input12.txt
+nonexistent.txt
+nonexistent.txt, "w"
+(whatever)
