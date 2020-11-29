@@ -78,7 +78,7 @@ void assert_full_deck(deck_t * d) {
   }
 }
 
-/*
+
 void add_card_to(deck_t * deck, card_t c){
 
   card_t* c1=malloc(sizeof(*c1));
@@ -186,7 +186,6 @@ void free_deck(deck_t * deck) {
   free(deck);
 
 }
-*/
 
 /*
 #include <stdio.h>
