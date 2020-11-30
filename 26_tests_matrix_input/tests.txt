@@ -1,4 +1,4 @@
-inpyt7.txt
+input7.txt
 input5.txt
 input1.txt
 input2.txt
@@ -19,3 +19,4 @@ input12.txt
 nonexistent.txt
 nonexistent.txt, "w"
 (whatever)
+hex.txt
